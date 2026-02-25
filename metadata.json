@@ -1,0 +1,7 @@
+{
+  "name": "Trung đoàn 2 Đoàn An Lão Anh hùng",
+  "description": "Cổng thông tin điện tử chính thức của Trung đoàn 2 (Đoàn An Lão Anh hùng) - Đơn vị truyền thống, tinh nhuệ, sẵn sàng chiến đấu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
